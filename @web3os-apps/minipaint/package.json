@@ -2,7 +2,7 @@
   "name": "@web3os-apps/minipaint",
   "description": "Image Editor",
   "help": "Usage: minipaint [frameSrc]",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
   "author": "Vilius L.",

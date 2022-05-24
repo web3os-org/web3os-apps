@@ -1,0 +1,8 @@
+{
+  "name": "@web3os-apps/rubikscube",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "ondras",
+  "homepage": "https://github.com/ondras/rubik"
+}

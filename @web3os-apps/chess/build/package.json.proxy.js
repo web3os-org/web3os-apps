@@ -1,0 +1,2 @@
+let json = {"name":"@web3os-apps/chess","description":"It's chess!","version":"0.1.0","main":"index.js","license":"MIT","scripts":{"dev":"serve -C -s build","build":"snowpack build --polyfill-node"},"dependencies":{"@chrisoakman/chessboardjs":"^1.0.0","chess.js":"^0.13.2","jquery":"^3.6.0"}};
+export default json;

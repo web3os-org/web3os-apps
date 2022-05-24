@@ -1,0 +1,2 @@
+let json = {"name":"@web3os-apps/doom","description":"Classic space-marine bang-bang","version":"0.1.3","main":"build/index.js","license":"MIT","scripts":{"build":"snowpack build --polyfill-node"},"dependencies":{"js-dos":"^7.4.3"}};
+export default json;

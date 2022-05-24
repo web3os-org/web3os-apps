@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@chrisoakman/chessboardjs/dist/chessboard-1.0.0.min.js": "./@chrisoakman/chessboardjs/dist/chessboard-1.0.0.min.js",
+    "chess.js": "./chessjs.js",
+    "jquery": "./jquery.js"
+  }
+}

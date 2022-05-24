@@ -1,0 +1,23 @@
+{
+  "name": "@web3os-org/web3os-apps",
+  "private": true,
+  "repository": "https://github.com/web3os-org/web3os-apps",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "lerna": "^4.0.0",
+    "serve": "^13.0.2",
+    "snowpack": "^3.8.8",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@web3os-apps/chess": "file:@web3os-apps\\chess",
+    "@web3os-apps/doom": "file:@web3os-apps\\doom",
+    "@web3os-apps/gun": "file:@web3os-apps\\gun",
+    "@web3os-apps/minipaint": "file:@web3os-apps\\minipaint",
+    "@web3os-apps/moralis": "file:@web3os-apps\\moralis",
+    "@web3os-apps/react-app": "file:@web3os-apps\\react-app",
+    "@web3os-apps/rubikscube": "file:@web3os-apps\\rubikscube",
+    "@web3os-apps/wolfenstein": "file:@web3os-apps\\wolfenstein"
+  }
+}

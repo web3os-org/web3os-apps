@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "js-dos": "./js-dos.js",
+    "js-dos/dist/js-dos.css": "./js-dos/dist/js-dos.css"
+  }
+}

@@ -26,6 +26,9 @@
       "last 1 safari version"
     ]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -34,5 +37,6 @@
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
-  }
+  },
+  "gitHead": "e1cef253181bcf4df9ab66da4a2945d36c7b1b2d"
 }

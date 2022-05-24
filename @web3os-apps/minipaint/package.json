@@ -6,5 +6,6 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Vilius L.",
-  "homepage": "https://github.com/viliusle/miniPaint"
+  "homepage": "https://github.com/viliusle/miniPaint",
+  "gitHead": "e1cef253181bcf4df9ab66da4a2945d36c7b1b2d"
 }

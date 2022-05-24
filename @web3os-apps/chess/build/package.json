@@ -8,6 +8,9 @@
     "dev": "serve -C -s build",
     "build": "snowpack build --polyfill-node"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@chrisoakman/chessboardjs": "^1.0.0",
     "chess.js": "^0.13.2",

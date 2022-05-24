@@ -4,5 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "author": "ondras",
-  "homepage": "https://github.com/ondras/rubik"
+  "homepage": "https://github.com/ondras/rubik",
+  "gitHead": "e1cef253181bcf4df9ab66da4a2945d36c7b1b2d"
 }

@@ -7,6 +7,9 @@
   "scripts": {
     "build": "webpack"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "moralis": "^1.7.0",
     "ansi-colors": "^4.1.3",

@@ -7,6 +7,9 @@
   "scripts": {
     "build": "snowpack build --polyfill-node"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "js-dos": "^7.4.3"
   }

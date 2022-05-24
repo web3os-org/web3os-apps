@@ -1,7 +1,7 @@
 {
   "name": "@web3os-apps/wolfenstein",
   "description": "Kill ze Nazis",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {

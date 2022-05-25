@@ -1,7 +1,7 @@
 {
   "name": "@web3os-apps/doom",
   "description": "Classic space-marine bang-bang",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {

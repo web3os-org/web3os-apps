@@ -4,12 +4,9 @@ import { parse as cliParse } from 'shell-quote'
 import Moralis from 'moralis'
 
 // Interact with the Moralis instance directly
-// e.g., kernel.modules.moralis.instance.User.current()
+// e.g., Kernel.modules['@web3os-apps/moralis'].instance.User.current()
 export const instance = Moralis
 
-export const name = 'moralis'
-export const version = '0.1.0'
-export const description = 'Moralis.io Utility'
 export const help = `
   ${colors.magenta.bold('Moralis.io Utility')}
   https://moralis.io

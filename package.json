@@ -9,7 +9,8 @@
     "version": "lerna version",
     "version:patch": "lerna version patch",
     "version:minor": "lerna version minor",
-    "version:major": "lerna version major"
+    "version:major": "lerna version major",
+    "publish:from-package": "lerna publish from-package"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",

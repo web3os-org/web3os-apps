@@ -4,7 +4,6 @@
   "private": true,
   "repository": "https://github.com/web3os-org/web3os-apps",
   "scripts": {
-    "build": "build:all",
     "build:all": "lerna run build",
     "version": "lerna version",
     "version:patch": "lerna version patch",

@@ -2,6 +2,10 @@
   "name": "@web3os-org/web3os-apps",
   "private": true,
   "repository": "https://github.com/web3os-org/web3os-apps",
+  "scripts": {
+    "build": "build:all",
+    "build:all": "lerna run build"
+  },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
     "lerna": "^4.0.0",

@@ -10,11 +10,13 @@ module.exports = {
   entry: './src/index.js',
   output: {
     clean: true,
+    libraryTarget: 'module',
     filename: 'index.js',
     path: path.resolve(__dirname, 'dist')
   },
 
   experiments: {
+    outputModule: true,
     topLevelAwait: true
   },
 

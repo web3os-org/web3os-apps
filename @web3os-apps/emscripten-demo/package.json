@@ -1,6 +1,6 @@
 {
   "name": "@web3os-apps/emscripten-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample emscripten application for web3os",
   "license": "MIT",
   "main": "dist/index.js",

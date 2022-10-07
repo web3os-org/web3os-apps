@@ -1,7 +1,7 @@
 {
   "name": "@web3os-apps/gun",
   "description": "Gun Decentralized Database",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {

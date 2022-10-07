@@ -20,5 +20,6 @@
     "arg": "^5.0.1",
     "shell-quote": "^1.7.3",
     "web3": "^1.8.0"
-  }
+  },
+  "gitHead": "7ae6de6bbf6f5f27585bc980aa36815d1efbebc4"
 }

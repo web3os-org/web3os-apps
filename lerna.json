@@ -1,7 +1,13 @@
 {
+  "packages": ["@web3os-apps/*"],
   "version": "independent",
   "npmClient": "pnpm",
-  "packages": [
-    "@web3os-apps/*"
-  ]
+  "useWorkspaces": true,
+  "useNx": true,
+  "command": {
+    "version": {
+      "allowBranch": "master",
+      "conventionalCommits": true
+    }
+  }
 }

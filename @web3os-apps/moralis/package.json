@@ -16,5 +16,11 @@
     "moralis": "^1.7.0",
     "shell-quote": "^1.7.3"
   },
-  "gitHead": "f5444d936d38363177cf61b70d3c93919f75cdc6"
+  "gitHead": "f5444d936d38363177cf61b70d3c93919f75cdc6",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "serve": "^14.0.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }

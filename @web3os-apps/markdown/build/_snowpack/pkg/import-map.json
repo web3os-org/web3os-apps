@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "ansi-colors": "./ansi-colors.js",
+    "markdown-it": "./markdown-it.js"
+  }
+}

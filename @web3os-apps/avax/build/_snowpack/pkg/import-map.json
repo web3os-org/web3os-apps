@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "ansi-colors": "./ansi-colors.js",
+    "arg": "./arg.js",
+    "avalanche": "./avalanche.js",
+    "shell-quote": "./shell-quote.js"
+  }
+}

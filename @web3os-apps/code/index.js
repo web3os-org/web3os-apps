@@ -45,7 +45,7 @@ export async function run (terminal, filename) {
     theme: 'vs-dark'
   })
 
-  const win = kernel.appWindow({
+  const win = kernel.windows.create({
     title: `Code: ${filename}`,
     mount: content
   })

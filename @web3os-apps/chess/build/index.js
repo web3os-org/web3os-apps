@@ -71,7 +71,7 @@ export async function run (term) {
   wrapper.id = `chess_${Math.random().toString(36).slice(2)}`
   wrapper.style.height = '100%'
 
-  kernel.appWindow({
+  kernel.windows.create({
     title: 'Chess',
     mount: wrapper,
     width: '50%',

@@ -2,6 +2,7 @@ import 'js-dos'
 import 'js-dos/dist/js-dos.css'
 import pkg from './package.json'
 
+export const title = 'Doom'
 export const name = pkg.name
 export const version = pkg.version
 export const description = pkg.description
@@ -17,8 +18,8 @@ export async function run (term) {
   const dosOptions = { hardware: window.hardware }
   const game = await Dos(wrapper, dosOptions).run(gameURL)
 
-  const appWindow = kernel.appWindow({
-    title: 'Doom',
+  const app = kernel.windows.create({
+    title,
     mount: wrapper,
     max: true,
     onclose: () => { game.exit() },
@@ -27,5 +28,5 @@ export async function run (term) {
     }
   })
 
-  appWindow.window.body.style.color = 'black'
+  app.window.body.style.color = 'black'
 }

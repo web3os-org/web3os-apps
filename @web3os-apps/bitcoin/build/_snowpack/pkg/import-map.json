@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "ansi-colors": "./ansi-colors.js",
+    "arg": "./arg.js",
+    "bitcoinjs-lib": "./bitcoinjs-lib.js",
+    "shell-quote": "./shell-quote.js"
+  }
+}

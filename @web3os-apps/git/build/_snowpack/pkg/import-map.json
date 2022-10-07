@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "ansi-colors": "./ansi-colors.js",
+    "arg": "./arg.js",
+    "isomorphic-git": "./isomorphic-git.js",
+    "isomorphic-git/http/web": "./isomorphic-git/http/web.js",
+    "shell-quote": "./shell-quote.js"
+  }
+}

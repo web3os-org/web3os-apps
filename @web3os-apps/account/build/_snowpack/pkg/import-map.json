@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@web3os-apps/openocean-api": "./@web3os-apps/openocean-api.js",
+    "arg": "./arg.js",
+    "shell-quote": "./shell-quote.js",
+    "web3": "./web3.js"
+  }
+}

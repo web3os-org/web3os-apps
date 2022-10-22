@@ -1,12 +1,8 @@
 {
-  "name": "@web3os-apps/minipaint",
-  "description": "Image Editor",
-  "help": "Usage: minipaint [frameSrc]",
-  "version": "1.0.6",
+  "name": "@web3os-apps/webamp",
+  "version": "1.0.1",
   "main": "build/index.js",
   "license": "MIT",
-  "author": "Vilius L.",
-  "homepage": "https://github.com/viliusle/miniPaint",
   "scripts": {
     "dev": "serve -C -s build",
     "build": "snowpack build --polyfill-node"
@@ -14,12 +10,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e1cef253181bcf4df9ab66da4a2945d36c7b1b2d",
   "devDependencies": {
     "serve": "^14.0.1",
     "snowpack": "^3.8.8"
   },
   "dependencies": {
-
+    "ansi-colors": "^4.1.3",
+    "arg": "^5.0.1",
+    "shell-quote": "^1.7.3",
+    "webamp": "^1.5.0"
   }
 }

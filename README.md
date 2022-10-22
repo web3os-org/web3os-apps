@@ -10,6 +10,6 @@
 
 This monorepo hosts the applications under the [@web3os-apps NPM scope](https://www.npmjs.com/org/web3os-apps).
 
-You may install these applications from within [web3os](https://web3os.sh) by using WPM, e.g.:
+You may install these applications from within [web3os](https://web3os.sh) by using 3PM, e.g.:
 
-`wpm install @web3os-apps/minipaint`
+`3pm install @web3os-apps/minipaint`

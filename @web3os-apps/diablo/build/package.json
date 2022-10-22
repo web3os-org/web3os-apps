@@ -1,12 +1,10 @@
 {
-  "name": "@web3os-apps/minipaint",
-  "description": "Image Editor",
-  "help": "Usage: minipaint [frameSrc]",
-  "version": "1.0.6",
+  "name": "@web3os-apps/diablo",
+  "version": "1.0.0",
   "main": "build/index.js",
   "license": "MIT",
-  "author": "Vilius L.",
-  "homepage": "https://github.com/viliusle/miniPaint",
+  "author": "d07RiV",
+  "homepage": "https://github.com/d07RiV/diabloweb",
   "scripts": {
     "dev": "serve -C -s build",
     "build": "snowpack build --polyfill-node"
@@ -14,7 +12,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e1cef253181bcf4df9ab66da4a2945d36c7b1b2d",
   "devDependencies": {
     "serve": "^14.0.1",
     "snowpack": "^3.8.8"
